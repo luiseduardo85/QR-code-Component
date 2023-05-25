@@ -7,9 +7,10 @@ body{
     left: 35%;
     top: 15px;
     width: 450px;
-    height: 600px;
+    height: 650px;
+    padding-top: 18px;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 18px;
 }
 .box > .paragraph1{
     margin-top: 30px;
@@ -35,5 +36,5 @@ img{
     height: 100%;
     margin-left: 40px;
     margin-top: 22px;
-    border-radius: 10px;
+    border-radius: 18px;
 }
